@@ -48,5 +48,7 @@ The design consists of the following stages:
 -Feel free to make suitable changes if there is a scope of improvement in the code.
 
 --To Contact:
+
 1.Linkedin-- www.linkedin.com/in/ankit310
+
 2.Gmail-- ankit.ghanshyam.23042@iitgoa.ac.in
