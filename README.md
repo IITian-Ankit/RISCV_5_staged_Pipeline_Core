@@ -4,7 +4,7 @@
 This project implements a **5-stage pipelined RISC-V processor** in **Verilog HDL**, designed to execute RV32I instructions.  
 It follows the classic RISC pipeline architecture to improve instruction throughput by overlapping different execution stages.  
 
-The processor includes **hazard detection** and **forwarding units** to handle data and control dependencies, ensuring correct execution without stalling performance unnecessarily.
+The processor includes **hazard detection** and **forwarding units** to handle data and control dependencies, also ensures correct execution without stalling performance unnecessarily.
 
 ---
 
